@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExamApp</string>
+    <string name="question1">In my free time I like to...</string>
+    <string name="question2">What\'s your favorite movie?</string>
+    <string name="question3">How do you feel about selfies?</string>
+    <string name="q1o1">Read</string>
+    <string name="q1o2">Work Out</string>
+    <string name="q1o3">Draw</string>
+    <string name="q1o4">Play video games</string>
+    <string name="q2o1">Star Trek</string>
+    <string name="q2o2">The Social Network</string>
+    <string name="q2o3">Back to the future</string>
+    <string name="q2o4">Outbreak</string>
+
+</resources>
